@@ -10,10 +10,6 @@ The key idea of this project is to simplify the act of creation—from complex t
 1. Hardware: Arduino, Jumper Wires, Tactile Switch, USB Cable
 2. Software: OpenAI API (approximately 1 cent per image)
 
-## Requirements
-Hardware: Arduino, Jumper Wires, Tactile Switch, USB Cable
-Software: OpenAI API (approximately 1 cent per image)
-
 ## Process
 1. Connect the Arduino and switch as shown in the following diagram.
 2. Plug the Arduino into your PC using a USB cable.
