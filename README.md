@@ -1,4 +1,4 @@
-# Magic-Button (WIP)
+# Magic-Button
 
 A participative art project.
 Create images with a simple click of a button.
@@ -17,7 +17,7 @@ The key idea of this project is to simplify the act of creation—from complex t
 
 3. Plug the Arduino into your PC using a USB cable.
 4. Upload the Arduino code. "magic_button.ino"
-5. Open the Python script.
+5. Open the Python script. (Magic-Button)
 6. Enter your OpenAI API key in the 'YOUR_API_KEY_HERE' section.
 7. Create a folder and set its path in the 'EXPORT_LOCATION' section.
 8. Enter your prompt in the 'YOUR_PROMPT_HERE' section.
