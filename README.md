@@ -1,4 +1,4 @@
-# Magic-Button
+# Magic-Button (WIP)
 
 A participative art project.
 Create images with a simple click of a button.
