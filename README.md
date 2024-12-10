@@ -13,7 +13,7 @@ The key idea of this project is to simplify the act of creation—from complex t
 ## Process
 1. Connect the Arduino and switch as shown in the following diagram.
 2. Plug the Arduino into your PC using a USB cable.
-3. Upload the Arduino code.
+3. Upload the Arduino code. "magic_button.ino"
 4. Open the Python script.
 5. Enter your OpenAI API key in the 'YOUR_API_KEY_HERE' section.
 6. Create a folder and set its path in the 'EXPORT_LOCATION' section.
