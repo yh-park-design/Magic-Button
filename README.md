@@ -19,6 +19,7 @@ The key idea of this project is to simplify the act of creation—from complex t
 6. Create a folder and set its path in the 'EXPORT_LOCATION' section.
 7. Enter your prompt in the 'YOUR_PROMPT_HERE' section.
 8. Run the script and verify if it works. If not, restart from step 1.
+9. The generation of an image will take about a minute.
 
 ## Troubleshooting Tips:
 1. Check the USB cable and Arduino connection.
