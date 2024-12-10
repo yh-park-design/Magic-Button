@@ -27,3 +27,4 @@ The key idea of this project is to simplify the act of creation—from complex t
 2. Verify the wiring between the Arduino and the switch.
 3. Ensure your OpenAI API key is correct.
 4. Double-check the export location.
+5. Double-check the usb port number.
