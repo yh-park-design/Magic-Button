@@ -12,15 +12,18 @@ The key idea of this project is to simplify the act of creation—from complex t
 
 ## Process
 1. Connect the Arduino and switch as shown in the following diagram.
-2. Plug the Arduino into your PC using a USB cable.
-3. Upload the Arduino code. "magic_button.ino"
-4. Open the Python script.
-5. Enter your OpenAI API key in the 'YOUR_API_KEY_HERE' section.
-6. Create a folder and set its path in the 'EXPORT_LOCATION' section.
-7. Enter your prompt in the 'YOUR_PROMPT_HERE' section.
-8. Enter your port number in the 'YOUR_PORT_HERE' section. ex) 'COM5', 'COM6'
-9. Run the script and verify if it works. If not, restart from step 1.
-10. The generation of an image will take about a minute.
+
+![Img Generator - Magic Button - Circuit](https://github.com/user-attachments/assets/7a60329a-e738-45b2-8186-0652211c5328)
+
+3. Plug the Arduino into your PC using a USB cable.
+4. Upload the Arduino code. "magic_button.ino"
+5. Open the Python script.
+6. Enter your OpenAI API key in the 'YOUR_API_KEY_HERE' section.
+7. Create a folder and set its path in the 'EXPORT_LOCATION' section.
+8. Enter your prompt in the 'YOUR_PROMPT_HERE' section.
+9. Enter your port number in the 'YOUR_PORT_HERE' section. ex) 'COM5', 'COM6'
+10. Run the script and verify if it works. If not, restart from step 1.
+11. The generation of an image will take about a minute.
 
 ## Troubleshooting Tips:
 1. Check the USB cable and Arduino connection.
