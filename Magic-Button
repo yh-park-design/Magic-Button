@@ -81,7 +81,7 @@ def main():
     SAVE_DIRECTORY = r'EXPORT_LOCATION'
     os.makedirs(SAVE_DIRECTORY, exist_ok=True)
 
-    ser = serial.Serial('COM5', 9600, timeout=1)
+    ser = serial.Serial('YOUR_PORT_HERE', 9600, timeout=1)
     
     try:
         while True:
